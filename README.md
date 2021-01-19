@@ -8,3 +8,6 @@ _Portfolio
 # Project 2: Genetic Algorithm
 * Solving Himmelblau function
 * Optimize Logistic Regression
+
+# Project 3: Time Series Analysis
+* 
