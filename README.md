@@ -1,15 +1,14 @@
 # _Portfolio
 _Portfolio
-* portfolio example
 
 # Project 1: Lens Module assembly angle optimization using Machine/Deep learning
-* Data Preprocessing
+* Preprocessing
 * Modeling
 * Prediction
 
 # Project 2: Genetic Algorithm
 * Solving Himmelblau function based on 'Optimization with Metaheuristics in python', Udemy
-* Optimize Logistic Regression
+* [Optimize Logistic Regression](https://github.com/ilvnax24er/Genetic_Algorithm/tree/main)
 
 # Project 3: Time Series Analysis
-* Based on 'Python for Time Series Data Analysis', Udemy
+* [Based on 'Python for Time Series Data Analysis', Udemy](https://github.com/ilvnax24er/Time_Series_Data_Analysis)
