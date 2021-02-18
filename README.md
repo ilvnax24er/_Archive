@@ -3,6 +3,7 @@ _Portfolio
 
 # Project 1: Lens Module assembly angle optimization using Machine/Deep learning
 * Preprocessing
+* GAN for Data Generation
 * Modeling
 * Prediction
 
