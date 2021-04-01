@@ -4,7 +4,7 @@ _Portfolio
 
 # Basic Deeplearning
 ## Basic Model
-* Basic
+* [Basic](https://github.com/ilvnax24er/Deeplearning_with_Keras/tree/master/Basic)
 ## GAN
 * DCGAN
 * CGAN
