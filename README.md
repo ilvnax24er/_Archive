@@ -13,7 +13,6 @@ _Portfolio
 * Preprocessing
 * [GAN for Data Generation](https://github.com/ilvnax24er/_temp/tree/main/2.%20Data%20Generation%20with%20GAN)
 * Modeling
-* Prediction
 
 # Metaheuristic Optimization
 * Solving Himmelblau function based on 'Optimization with Metaheuristics in python', Udemy
