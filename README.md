@@ -4,6 +4,7 @@ _Portfolio
 
 # Basic Deeplearning
 ## Basic Model
+* Basic
 ## GAN
 * DCGAN
 * CGAN
