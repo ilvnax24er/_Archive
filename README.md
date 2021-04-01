@@ -1,19 +1,18 @@
 # _Portfolio
 _Portfolio
 
-# Project 1: Lens Module assembly angle optimization using Machine/Deep learning
+# Lens Module assembly angle optimization using Machine/Deep learning
 * Preprocessing
 * [GAN for Data Generation](https://github.com/ilvnax24er/_temp/tree/main/2.%20Data%20Generation%20with%20GAN)
 * Modeling
 * Prediction
 
-# Project 2: Metaheuristic Optimization
+# Metaheuristic Optimization
 * Solving Himmelblau function based on 'Optimization with Metaheuristics in python', Udemy
 * [Optimize Logistic Regression](https://github.com/ilvnax24er/Genetic_Algorithm/tree/main)
-* Simulated Annealing
-* Tabu Search
-* Evloutionary Strategies
-* Constraint Handling 
 
-# Project 3: Time Series Analysis
+# Time Series Analysis
 * [Based on 'Python for Time Series Data Analysis', Udemy](https://github.com/ilvnax24er/Time_Series_Data_Analysis)
+
+# Basic Deeplearning
+* 
