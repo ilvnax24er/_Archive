@@ -5,8 +5,8 @@ _Portfolio
 # Basic Deeplearning
 * Basic
 * GAN
-*  -DCGAN
-*  -CGAN
+  -DCGAN
+  -CGAN
 
 # Lens Module assembly angle optimization using Machine/Deep learning
 * Preprocessing
