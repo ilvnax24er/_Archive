@@ -12,6 +12,11 @@ _Portfolio
 * [DCGAN](https://github.com/ilvnax24er/Deeplearning_with_Keras/tree/master/GAN/DCGAN)
 * CGAN
 
+### 3. Autoencoder
+* Basic
+* LSTM Autoencoder
+
+
 # Lens Module assembly angle optimization using Machine/Deep learning
 * Preprocessing
 * [GAN for Data Generation](https://github.com/ilvnax24er/_temp/tree/main/2.%20Data%20Generation%20with%20GAN)
