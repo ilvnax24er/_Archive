@@ -13,11 +13,11 @@ _Portfolio
 * CGAN
 
 ### 3. Autoencoder
-* [Basic](https://github.com/ilvnax24er/Deeplearning_with_Keras/tree/master/AE)
-* [LSTM Autoencoder](https://github.com/ilvnax24er/Deeplearning_with_Keras/tree/master/AE)
-* [LSTM Autoencoder for Anomaly Detection](https://github.com/ilvnax24er/Deeplearning_with_Keras/tree/master/AE)
-* [DAE(Denoising Autoencoer)]
-* [CAE(Colorization Autoencoer)]
+* [Basic](https://github.com/ilvnax24er/Deeplearning_with_Keras/tree/master/AE/Basic%20AE/AE)
+* [LSTM Autoencoder](https://github.com/ilvnax24er/Deeplearning_with_Keras/tree/master/AE/LSTM%20AE)
+* [LSTM Autoencoder for Anomaly Detection](https://github.com/ilvnax24er/Deeplearning_with_Keras/tree/master/AE/LSTM%20AE)
+* [DAE(Denoising Autoencoer)](https://github.com/ilvnax24er/Deeplearning_with_Keras/tree/master/AE/Basic%20AE/DAE)
+* [CAE(Colorization Autoencoer)](https://github.com/ilvnax24er/Deeplearning_with_Keras/tree/master/AE/Basic%20AE/CAE)
 
 
 
