@@ -21,9 +21,8 @@ _Archive
 
 
 # Time Series Analysis
-* [Based on 'Python for Time Series Data Analysis', Udemy](https://github.com/ilvnax24er/Time_Series_Data_Analysis)
-* [DeepLearning for Time Series]()
 ## Basics
+* [Reference based on 'Python for Time Series Data Analysis', Udemy](https://github.com/ilvnax24er/Time_Series_Data_Analysis)
 * Prepare Time Series Data for CNNs and LSTM
 * Develop MLPs for Time Series Forecasting
 * Develop CNNs for Time Series Forecasting
