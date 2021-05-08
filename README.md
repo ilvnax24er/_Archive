@@ -22,13 +22,17 @@ _Archive
 
 # Time Series Analysis
 ### Basics
-* [Reference based on 'Python for Time Series Data Analysis', Udemy](https://github.com/ilvnax24er/Time_Series_Data_Analysis/tree/main/Reference)
 * [Prepare Time Series Data for CNNs and LSTM](https://github.com/ilvnax24er/Time_Series_Data_Analysis/tree/main/DeepLearning%20for%20Time%20Series/Basics)
 * [Develop MLPs for Time Series Forecasting](https://github.com/ilvnax24er/Time_Series_Data_Analysis/tree/main/DeepLearning%20for%20Time%20Series/Basics)
 * [Develop CNNs for Time Series Forecasting](https://github.com/ilvnax24er/Time_Series_Data_Analysis/tree/main/DeepLearning%20for%20Time%20Series/Basics)
 * [Develop LSTMs for Time Series Forecasting](https://github.com/ilvnax24er/Time_Series_Data_Analysis/tree/main/DeepLearning%20for%20Time%20Series/Basics)
 ### Exercise
 * [Develop MLPs, CNNs and LSTMs for Univariate Forecasting](https://github.com/ilvnax24er/Time_Series_Data_Analysis/tree/main/DeepLearning%20for%20Time%20Series/Exercise)
+### Python for Time Series Data Analysis, Udemy
+#### Basic
+* [Reference based on 'Python for Time Series Data Analysis', Udemy](https://github.com/ilvnax24er/Time_Series_Data_Analysis/tree/main/Reference)
+#### [Exercise]()
+* Alcohol Sales
 
 # Metaheuristic Optimization
 * Solving Himmelblau function based on 'Optimization with Metaheuristics in python', Udemy
