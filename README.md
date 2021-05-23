@@ -1,6 +1,17 @@
-# _Archive
-_Archive
-
+# Time Series Analysis
+### Basics
+* [Prepare Time Series Data for CNNs and LSTM](https://github.com/ilvnax24er/Time_Series_Data_Analysis/tree/main/DeepLearning%20for%20Time%20Series/Basics)
+* [Develop MLPs for Time Series Forecasting](https://github.com/ilvnax24er/Time_Series_Data_Analysis/tree/main/DeepLearning%20for%20Time%20Series/Basics)
+* [Develop CNNs for Time Series Forecasting](https://github.com/ilvnax24er/Time_Series_Data_Analysis/tree/main/DeepLearning%20for%20Time%20Series/Basics)
+* [Develop LSTMs for Time Series Forecasting](https://github.com/ilvnax24er/Time_Series_Data_Analysis/tree/main/DeepLearning%20for%20Time%20Series/Basics)
+### [Exercise](https://github.com/ilvnax24er/Time_Series_Data_Analysis/tree/main/DeepLearning%20for%20Time%20Series/Exercise)
+* Develop MLPs, CNNs and LSTMs for Univariate Forecasting
+* Grid Search Deep Learning Models for Univariate Forecasting
+### Python for Time Series Data Analysis, Udemy
+#### Basic
+* [Reference based on 'Python for Time Series Data Analysis', Udemy](https://github.com/ilvnax24er/Time_Series_Data_Analysis/tree/main/Reference)
+#### [Exercise](https://github.com/ilvnax24er/Time_Series_Data_Analysis/tree/main/Exercise)
+* Alcohol Sales
 
 # Deeplearning with Keras
 ### 1. Basic Model
@@ -19,21 +30,6 @@ _Archive
 * [DAE(Denoising Autoencoer)](https://github.com/ilvnax24er/Deeplearning_with_Keras/tree/master/AE/Basic%20AE/DAE)
 * [CAE(Colorization Autoencoer)](https://github.com/ilvnax24er/Deeplearning_with_Keras/tree/master/AE/Basic%20AE/CAE)
 
-
-# Time Series Analysis
-### Basics
-* [Prepare Time Series Data for CNNs and LSTM](https://github.com/ilvnax24er/Time_Series_Data_Analysis/tree/main/DeepLearning%20for%20Time%20Series/Basics)
-* [Develop MLPs for Time Series Forecasting](https://github.com/ilvnax24er/Time_Series_Data_Analysis/tree/main/DeepLearning%20for%20Time%20Series/Basics)
-* [Develop CNNs for Time Series Forecasting](https://github.com/ilvnax24er/Time_Series_Data_Analysis/tree/main/DeepLearning%20for%20Time%20Series/Basics)
-* [Develop LSTMs for Time Series Forecasting](https://github.com/ilvnax24er/Time_Series_Data_Analysis/tree/main/DeepLearning%20for%20Time%20Series/Basics)
-### [Exercise](https://github.com/ilvnax24er/Time_Series_Data_Analysis/tree/main/DeepLearning%20for%20Time%20Series/Exercise)
-* Develop MLPs, CNNs and LSTMs for Univariate Forecasting
-* Grid Search Deep Learning Models for Univariate Forecasting
-### Python for Time Series Data Analysis, Udemy
-#### Basic
-* [Reference based on 'Python for Time Series Data Analysis', Udemy](https://github.com/ilvnax24er/Time_Series_Data_Analysis/tree/main/Reference)
-#### [Exercise](https://github.com/ilvnax24er/Time_Series_Data_Analysis/tree/main/Exercise)
-* Alcohol Sales
 
 # Metaheuristic Optimization
 * Solving Himmelblau function based on 'Optimization with Metaheuristics in python', Udemy
