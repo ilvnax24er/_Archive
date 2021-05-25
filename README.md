@@ -14,6 +14,7 @@
 * Alcohol Sales
 * Engergy Production
 * Daily Temperature
+* Macro Data
 
 # Deeplearning with Keras
 ### 1. Basic Model
